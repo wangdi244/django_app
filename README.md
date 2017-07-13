@@ -1,1 +1,1 @@
-django²âÊÔÏîÄ¿
+django test item
